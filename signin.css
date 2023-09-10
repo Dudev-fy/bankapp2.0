@@ -1,0 +1,30 @@
+#con {
+    background-color: lightskyblue;
+    border-radius: 20px;
+    top: 50px;
+    position: relative;
+    width: 30%;
+    padding: 20px;
+}
+
+#loginButton {
+    width: 70%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.navbar {
+    background-color: lightskyblue;
+}
+  
+.navbar-brand {
+    color: black;
+}
+  
+.nav-link {
+    color: black;
+}
+
+body {
+    background-color: aliceblue;
+}
