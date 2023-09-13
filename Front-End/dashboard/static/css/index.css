@@ -1,0 +1,98 @@
+.color {
+    background-color: black;
+}
+  
+#con {
+    position: relative;
+    width: 100%;
+    left: -10px;
+    padding-bottom: 10px;
+    max-width: 1300px;
+    background-color: peachpuff;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 2px solid darkblue;
+}
+
+.bottom {
+    position: relative;
+    font-size: 18px;
+    margin-top: 20px;
+}
+  
+#con2 {
+    margin-top: 80px;
+}
+  
+#col {
+    margin-left: 20px;
+    padding: 15px;
+    border-radius: 20px;
+    border: 3px solid darkblue;
+    background-color: lightskyblue;
+    cursor: pointer;
+}
+
+.a {
+    color: white;
+}
+  
+#col:hover {
+    transform: translateY(-10px); /* Adjust the desired amount of lift */
+}
+  
+#transferbtn {
+    margin-top: 40px;
+}
+  
+.matte-box-overlay {
+    position: relative;
+    display: inline-block;
+    width: 350px; /* Adjust width as needed */
+    height: 40px; /* Adjust height as needed */
+    background-color: rgba(0, 0, 0, 0.4); /* Semi-transparent background */
+    border-radius: 5px;
+    animation: pulse 1s infinite;
+    top: 40px;
+}
+
+@keyframes pulse {
+    0% {
+        background-color: rgba(0, 0, 0, 0.3);
+    }
+    50% {
+        background-color: rgba(0, 0, 0, 0.2);
+    }
+    100% {
+        background-color: rgba(0, 0, 0, 0.3);
+    }
+}
+
+.navbar {
+    background-color: lightskyblue;
+}
+  
+.navbar-brand {
+    color: black;
+}
+  
+.nav-link {
+    color: black;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.extrato {
+    background-color: aliceblue;
+    padding: 2px;
+    width: 30%;
+    left: 130px;
+    border-radius: 20px;
+    color: darkblue;
+    border: 2px solid darkblue;
+    position: relative;
+    font-size: 18px;
+    margin-top: 15px;
+}
