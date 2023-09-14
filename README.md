@@ -11,6 +11,8 @@ Node.js |
 Express |
 Bootstrap |
 Webpack |
-Babel 
+Babel
+
+Please download 'demo.mp4' video for a quick demonstration of the project
 
 Hope you enjoy it :)
